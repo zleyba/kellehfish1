@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<?php require_once("lib/head-tags.html"); ?>
+		<?php require_once("include-headtags.php"); ?>
 		<link href='https://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Didot' rel='stylesheet' type='text/css'>
 
@@ -42,36 +42,9 @@
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<header>
-				<nav class="navbar nav">
 
-					<div class="title">kellehfish</div>
+			<?php require_once("include-header.php"); ?>
 
-					<div class="navbar-header">
-
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-
-					</div>
-					<div class="ptitle">kellehfish</div>
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="navbar-collapse-1">
-						<ul class="nav">
-							<li class="item"><a href="#">a b o u t</a></li>
-							<li class="item"><a href="#">w o r k</a></li>
-							<li class="item"><a href="#">c o n t a c t</a></li>
-							<li class="item"><a href="#">s h o p</a></li>
-						</ul>
-
-
-					</div><!-- /.navbar-collapse -->
-		</div><!-- /.container-fluid -->
-		</nav>
-		</header>
 
 			<main>
 
@@ -149,13 +122,9 @@
 
 
 
-		<footer>
-			<div class="container">
-
-
-				(c) Kelly Williams 2016
-			</div>
-		</footer>
+		<?php include_once("include-footer.php"); ?>
 
 
 	</body>
+
+	</html>

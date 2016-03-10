@@ -350,3 +350,18 @@ span.icon-bar {
 	background-image: url('../img/tumblr-alt.png');
 
 }
+
+/***
+modifies gallery CSS
+***/
+
+.gallery img {
+	max-width: 360px;
+	max-height: 360px;
+	padding: 10px 10px 10px;
+
+}
+
+.gallery ul li {
+	display: inline;
+}
