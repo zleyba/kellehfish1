@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<?php require_once(dirname(__DIR__) . "lib/head-tags.html"); ?>
+		<?php require_once("lib/head-tags.html"); ?>
 		<link href='https://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Didot' rel='stylesheet' type='text/css'>
 
