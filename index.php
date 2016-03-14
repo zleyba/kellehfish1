@@ -52,6 +52,7 @@
 
 					<div class="row">
 						<div class="col-md-12">
+							<img class="profile" src="img/profile.jpg">
 							<p>
 								Kelly Williams is a 24-year-old artist hailing from Albuquerque, NM. While growing up in the
 								American Southwest, she discovered a love of drawing and visual art from a young age. Finding
