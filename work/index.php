@@ -48,69 +48,65 @@
 
 			<main>
 
-				<div class="container" id="box-container">
+				<div class="container-fluid" id="box-container">
 
 					<div class="row">
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
 						<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
 							<img src="/img/img-1.jpg" alt="image">
 						</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
+							<a href="/img/img-2.jpg" class="swipebox" title="My Caption">
+								<img src="/img/img-2.jpg" alt="image">
 							</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
+							<a href="/img/img-3.jpg" class="swipebox" title="My Caption">
+								<img src="/img/img-3.jpg" alt="image">
 							</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
+							<a href="/img/img-4.jpg" class="swipebox" title="My Caption">
+								<img src="/img/img-4.jpg" alt="image">
 							</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
+							<a href="/img/img-5.jpg" class="swipebox" title="My Caption">
+								<img src="/img/img-5.jpg" alt="image">
 							</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
+							<a href="/img/img-6.jpg" class="swipebox" title="My Caption">
+								<img src="/img/img-6.jpg" alt="image">
 							</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
+							<a href="/img/img-7.jpg" class="swipebox" title="My Caption">
+								<img src="/img/img-7.jpg" alt="image">
 							</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
+							<a href="/img/img-8.jpg" class="swipebox" title="My Caption">
+								<img src="/img/img-8.jpg" alt="image">
 							</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
+						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 gallery">
+							<a href="/img/img-9.jpg" class="swipebox" title="My Caption">
+								<img src="/img/img-9.jpg" alt="image">
 							</a>
 						</div>
 
-						<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
-							<a href="/img/img-1.jpg" class="swipebox" title="My Caption">
-								<img src="/img/img-1.jpg" alt="image">
-							</a>
-						</div>
+
 
 					</div>
 

@@ -52,67 +52,15 @@
 
 					<div class="row">
 						<div class="col-md-12">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
+							<p>
+								Kelly Williams is a 24-year-old artist hailing from Albuquerque, NM. While growing up in the
+								American Southwest, she discovered a love of drawing and visual art from a young age. Finding
+								inspiration in ‘90s cartoons, DIY music, and the trials and tribulations of her day-to-day life,
+								Kelly creates bold-lined illustrations that capture the essence of being a young woman in the
+								modern world. Her technique utilizes clean linework and playful cartoon-inspired style to create
+								work  encompassing her imaginative relatability.
 
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
-								convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
-								purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
-								eu fringilla elit dapibus. Pellentesque lacinia, elit vitae commodo finibus, nisl orci suscipit nibh, sit
-								amet aliquam sem sem id mauris. Sed venenatis porttitor augue ac egestas. Etiam ac odio enim. Suspendisse
-								tincidunt ut ligula nec tempor.</p>
+							</p>
 						</div>
 					</div>
 

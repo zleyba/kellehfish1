@@ -22,6 +22,10 @@ html {
 	font-size: 14px;
 }
 
+p {
+	font-size: 2em;
+}
+
 main {
 	margin-top: 180px;
 
@@ -47,6 +51,8 @@ nav ul li {
 	display: inline;
 
 }
+
+
 
 
 body {
@@ -120,6 +126,7 @@ header {
 	font-weight: 300;
 	line-height: 50px;
 	margin-right: 5px;
+	letter-spacing: 2px;
 	transition: 0.5s ease;
 }
 
@@ -281,6 +288,7 @@ span.icon-bar {
 		font-weight: 300;
 		line-height: 50px;
 
+		letter-spacing: 0;
 
 	}
 
@@ -314,6 +322,15 @@ span.icon-bar {
 
 	}
 
+	.scrolled.navbar .ptitle{
+		text-align: left;
+		font-size: 1.5em;
+		opacity: 1;
+
+	}
+
+
+
 
 }
 
@@ -325,13 +342,16 @@ span.icon-bar {
 
 
 
-.iglogo {
-	display: inline-block;
+ .iglogo {
+	display: inline;
 	width: 30px;
 	height: 30px;
 	background: url(../img/iglogo.png) center top no-repeat;
+	padding-top: 25px;
 
 }
+
+
 
 
 .iglogo:hover {
@@ -339,12 +359,15 @@ span.icon-bar {
 
 }
 
-.tumblrlogo {
+ .tumblrlogo {
 	width: 30px;
 	height:30px;
-	display: inline-block;
+	display: inline;
 	background:transparent url('../img/tumblrlogo.png') center top no-repeat;
+	padding-top: 25px;
 }
+
+
 
 .tumblrlogo:hover {
 	background-image: url('../img/tumblr-alt.png');
@@ -363,5 +386,5 @@ modifies gallery CSS
 }
 
 .gallery ul li {
-	display: inline;
+	display: block-inline;
 }
