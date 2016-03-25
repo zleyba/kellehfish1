@@ -26,6 +26,13 @@ setXsrfCookie();
 		<link href='https://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Didot' rel='stylesheet' type='text/css'>
 
+		<!-- Angular -->
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-messages.js"></script>
+		<script src="../angular/app.js"></script>
+		<script src="../angular/controller.js"></script>
+
+
 		<!-- loads gallery support files-->
 		<link rel="stylesheet" href="/css/swipebox.css">
 		<script src="../lib/jquery-2.1.0.min.js"></script>
