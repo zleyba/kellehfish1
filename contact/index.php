@@ -19,18 +19,14 @@ setXsrfCookie();
 * Date: 2/2/16
 * Time: 10:24 AM
 -->
-<html>
+<html ng-app="Site">
 	<head>
 		<meta charset="UTF-8">
 		<?php require_once("../include-headtags.php"); ?>
 		<link href='https://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Didot' rel='stylesheet' type='text/css'>
 
-		<!-- Angular -->
-		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-messages.js"></script>
-		<script src="../angular/app.js"></script>
-		<script src="../angular/controller.js"></script>
+
 
 
 		<!-- loads gallery support files-->
@@ -46,6 +42,11 @@ setXsrfCookie();
 			} )( jQuery );
 		</script>
 		<!--end gallery support-->
+		<!-- Angular -->
+		<script src='//ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js'></script>
+		<script src='//ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-messages.js'></script>
+		<script src="../angular/app.js"></script>
+		<script src="../angular/controller.js"></script>
 
 		<!--Nav bar Scripts-->
 
