@@ -1,3 +1,17 @@
+<?php
+/**
+ * sets an XSRF cookie, generating one if necessary
+ *
+ * @param string $cookiePath path the cookie is relevant to, blank by default
+ * @throws RuntimeException if the session is not active
+ **/
+if(session_status() !== PHP_SESSION_ACTIVE) {
+	session_start();
+}
+require_once ("../lib/xsrf.php");
+setXsrfCookie();
+?>
+
 <!DOCTYPE HTML>
 <!--
  * Created by PhpStorm.
