@@ -55,9 +55,9 @@
 							<img class="profile" src="img/profile.jpg">
 							<p>
 								Kelly Williams is a 24-year-old artist hailing from Albuquerque, NM. While growing up in the
-								American Southwest, she discovered a love of drawing and visual art from a young age. Finding
+								American Southwest, she discovered a love of illustration and visual art from a young age. Finding
 								inspiration in ‘90s cartoons, DIY music, and the trials and tribulations of her day-to-day life,
-								Kelly creates bold-lined illustrations that capture the essence of being a young woman in the
+								Kelly creates bold-line illustrations that capture the essence of being a young woman in the
 								modern world. Her technique utilizes clean linework and playful cartoon-inspired style to create
 								work  encompassing her imaginative relatability.
 

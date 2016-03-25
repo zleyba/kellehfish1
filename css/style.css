@@ -74,9 +74,9 @@ header {
 
 .profile {
 	float: left;
-	max-width: 400px;
-	max-height: 400px;
-	padding: 10px;
+	max-width: 375px;
+	max-height: 375px;
+	padding: 0 10px 10px;
 }
 
 .navbar-header {
