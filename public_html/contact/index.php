@@ -8,7 +8,7 @@
 if(session_status() !== PHP_SESSION_ACTIVE) {
 	session_start();
 }
-require_once ("../lib/xsrf.php");
+require_once("../lib/xsrf.php");
 setXsrfCookie();
 ?>
 
@@ -30,7 +30,7 @@ setXsrfCookie();
 
 
 		<!-- loads gallery support files-->
-		<link rel="stylesheet" href="/css/swipebox.css">
+		<link rel="stylesheet" href="/public_html/csslic_html/css/swipebox.css">
 		<script src="../lib/jquery-2.1.0.min.js"></script>
 		<script src="../js/jquery.swipebox.js"></script>
 

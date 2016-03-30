@@ -20,8 +20,8 @@
 				<ul class="nav">
 					<li class="item"><a href="../index.php">about</a></li>
 					<li class="item"><a href="work/index.php">work</a></li>
-					<li class="item"><a href="#">contact</a></li>
-					<li class="item"><a href="https://www.etsy.com/shop/CorpusKelly?ref=l2-shopheader-name">shop</a></li>
+					<li class="item"><a href="mailto:kellefish@gmail.com">contact</a></li>
+					<li class="item"><a href="https://www.etsy.com/shop/CorpusKelly?ref=l2-shopheader-name" target="_blank">shop</a></li>
 					<li class="item">  <a class="iglogo" href="https://www.instagram.com/kellehfish/"></a> </li>
 					<li class="item"> <a class="tumblrlogo" href="http://kellehjelleh.tumblr.com/"></a> </li>
 				</ul>

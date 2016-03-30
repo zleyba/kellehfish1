@@ -13,7 +13,7 @@
 		<link href='https://fonts.googleapis.com/css?family=Didot' rel='stylesheet' type='text/css'>
 
 		<!-- loads gallery support files-->
-		<link rel="stylesheet" href="/css/swipebox.css">
+		<link rel="stylesheet" href="/public_html/css/swipebox.css">
 		<script src="lib/jquery-2.1.0.min.js"></script>
 		<script src="js/jquery.swipebox.js"></script>
 
